@@ -16,3 +16,4 @@ Emplearemos la que intenta un fast-forward. En caso de no poder que entre en con
 ### Nuevos cambios incorporados desde local
 
 Se agregan nuevos cambios
+### Nuevo cambio realizado desde github
