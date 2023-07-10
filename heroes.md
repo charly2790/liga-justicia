@@ -7,5 +7,6 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
-* FLash
+* Flash
 * Gatubela
+* Ash ketchump
