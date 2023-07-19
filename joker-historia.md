@@ -1,0 +1,6 @@
+## Joker
+
+_Joker (conocida como Guasón en Hispanoamérica) es una película de suspense psicológico estadounidense de 2019 dirigida y producida por Todd Phillips, quien coescribió el guion con Scott Silver. La película, basada en personajes de DC Comics, está protagonizada por Joaquin Phoenix como El Joker y proporciona una historia de su origen alternativa para el personaje. Ambientada en 1981, sigue a Arthur Fleck, un payaso fracasado y comediante cuyo descenso a la locura y el nihilismo inspira una violenta revolución contracultural contra los ricos en una Gotham City en decadencia. Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen, Glenn Fleshler, Bill Camp, Shea Whigham y Marc Maron aparecen en papeles secundarios. Joker fue producida por Warner Bros. Pictures, DC Films y Joint Effort, en asociación con Bron Creative y Village Roadshow Pictures, y distribuida por Warner Bros. Joker es la primera película de acción en vivo de Batman en recibir una calificación R. El 27 de octubre de 2019 se convirtió en la película con clasificación R más taquillera de la historia, 
+superando a Deadpool.3​ El 15 de noviembre de 2019 se convirtió en la primera película de clasificación R en superar los 1.000 millones en taquilla.4​_
+
+![joker-image](https://upload.wikimedia.org/wikipedia/commons/e/e8/The_Joker_at_Wax_Museum_Plus.jpg)
